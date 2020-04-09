@@ -1,6 +1,3 @@
-
-import groovy.json.JsonSlurper
-
 class Main{
     private static Map parser(String line){
         def VMmap = [:]
